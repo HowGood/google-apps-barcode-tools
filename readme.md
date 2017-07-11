@@ -1,4 +1,4 @@
-## Google Sheets Barcode Formulas
+# Google Sheets Barcode Formulas
 
 These are some helpful formulas that can be used in Google
 Sheets documents.
@@ -11,6 +11,10 @@ _Currently only available to users in the [howgood][howgood] domain._
 * EAN-13
 * GTIN-13
 * GTIN-14
+
+## Usage
+
+Here's how to use the included formulas in a google sheet.
 
 ### `CALC_CHECK_DIGIT`
 
